@@ -13,7 +13,7 @@
 
 - **Database**
 	- PostgreSQL :white_check_mark:
-	- MySql
+	- MySql :white_check_mark:
 
 <br/><br/>
 ## 💬 I intend to learn
