@@ -6,12 +6,17 @@
 	- Java :white_check_mark:
 <img align="right" src="https://media1.tenor.com/images/9629b913901d630a66ad9e990a504f7b/tenor.gif?itemid=18852575"/>
 
+- **Cloud**
+  - AWS :white_check_mark:
 - **Framework**
   - Spring boot :white_check_mark:
-  - Spring Security
-  - Spring Cloud
+  - Spring Security :white_check_mark:
+  - Spring Cloud :white_check_mark:
+  - Hibernate :white_check_mark:
+  - Micronaut :white_check_mark:
 
 - **Database**
+	- MicrosoftServer :white_check_mark: 
 	- PostgreSQL :white_check_mark:
 	- MySql :white_check_mark:
 
