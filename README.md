@@ -4,6 +4,7 @@
 ## Ask me about :computer: 
 - **Programming**
 	- Java :white_check_mark:
+	- Kotlin :white_check_mark:
 <img align="right" src="https://media1.tenor.com/images/9629b913901d630a66ad9e990a504f7b/tenor.gif?itemid=18852575"/>
 
 - **Cloud**
@@ -16,9 +17,10 @@
   - Micronaut :white_check_mark:
 
 - **Database**
-	- MicrosoftServer :white_check_mark: 
-	- PostgreSQL :white_check_mark:
-	- MySql :white_check_mark:
+  - MicrosoftServer :white_check_mark: 
+  - PostgreSQL :white_check_mark:
+  - MySql :white_check_mark:
+  - DynamoDb :white_check_mark:
 
 <br/><br/>
 ## 💬 I intend to learn
