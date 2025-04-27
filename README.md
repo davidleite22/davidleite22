@@ -9,18 +9,24 @@
 
 - **Cloud**
   - AWS :white_check_mark:
+  - Azure :white_check_mark:
 - **Framework**
   - Spring boot :white_check_mark:
   - Spring Security :white_check_mark:
   - Spring Cloud :white_check_mark:
   - Hibernate :white_check_mark:
   - Micronaut :white_check_mark:
+ 
+- **Mensageria**
+  - Kafka :white_check_mark:
+  - RabbitMQ :white_check_mark:
 
 - **Database**
   - MicrosoftServer :white_check_mark: 
   - PostgreSQL :white_check_mark:
   - MySql :white_check_mark:
   - DynamoDb :white_check_mark:
+  - MongoDb :white_check_mark:
 
 <br/><br/>
 ## 💬 I intend to learn
